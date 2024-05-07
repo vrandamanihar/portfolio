@@ -372,7 +372,7 @@ nav .fas{
         margin-left:0;
     }
 
-    nav .fas{
+    nav button .fas{
         display:block;
         font-size:25px;
     }
@@ -391,7 +391,7 @@ nav .fas{
         display:block;
         margin:25px;
     }
-    nav ul .fas{
+    nav ul button .fas{
         position: absolute;
         top: 25px;
         left:25px;
