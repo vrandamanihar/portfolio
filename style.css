@@ -377,11 +377,11 @@ nav .fas{
         font-size:25px;
     }
     nav ul{
-        background:#04D9FF ;
+        background:#000809 ;
         position: fixed;
         top:0;
         right:-200px;
-        width: 200px;
+        width: 300px;
         height: 100vh;
         padding-top: 50px;
         z-index: 2;
@@ -390,6 +390,7 @@ nav .fas{
     nav ul li{
         display:block;
         margin:25px;
+    
     }
     nav ul .fas{
         position: absolute;
